@@ -33,7 +33,7 @@ A Python GUI application for bulk extraction of video URLs from YouTube channels
 git clone [your-repository-url]
 cd [project-directory]
 
-Install requirements
+### Install requirements
 ```bash
 pip install -r requirements.txt
 
