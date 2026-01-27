@@ -32,8 +32,7 @@ pip install -r requirements.txt
 
 ### Clone or Download
 ```bash
-git clone [your-repository-url]
-cd [project-directory]
+git clone [(https://github.com/slnquangtran/CUE.git)](https://github.com/slnquangtran/CUE.git)
 
 
 
