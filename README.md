@@ -22,7 +22,7 @@ A Python GUI application for bulk extraction of video URLs from YouTube channels
 - Automatic file splitting (configurable batch size)
 - Organized file naming
 
-## Installation
+### Installation
 ```bash
 pip install -r requirements.txt
 
