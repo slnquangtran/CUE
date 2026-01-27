@@ -23,6 +23,8 @@ A Python GUI application for bulk extraction of video URLs from YouTube channels
 - Organized file naming
 
 ## Installation
+```bash
+pip install -r requirements.txt
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -33,9 +35,7 @@ A Python GUI application for bulk extraction of video URLs from YouTube channels
 git clone [your-repository-url]
 cd [project-directory]
 
-### Install requirements
-```bash
-pip install -r requirements.txt
+
 
 
 
