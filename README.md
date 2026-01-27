@@ -1,5 +1,5 @@
 # CUE
-A Python GUI application for bulk extraction of video URLs from YouTube channels. Built with PyQt6, this tool supports multiple input formats, extraction modes, and advanced features like YouTube Data API integration and multi-threaded processing.
+CUE (Channel Url Extractor) is a Python GUI application for bulk extraction of video URLs from YouTube channels. Built with PyQt6, this tool supports multiple input formats, extraction modes, and advanced features like YouTube Data API integration and multi-threaded processing.
 ### **Core Functionality**
 - Extract URLs from YouTube channels using:
   - Channel ID (UC...)
