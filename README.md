@@ -24,17 +24,12 @@ A Python GUI application for bulk extraction of video URLs from YouTube channels
 
 ### **Installation**
 ```bash
-pip install -r requirements.txt
-
-### **Prerequisites**
-- Python 3.7 or higher
-- pip package manager
-
-### **Clone or Download**
-```bash
 git clone [(https://github.com/slnquangtran/CUE.git)](https://github.com/slnquangtran/CUE.git)
-
-
+```
+### **Install requirements**
+```bash
+pip install -r requirements.txt
+```
 
 
 
