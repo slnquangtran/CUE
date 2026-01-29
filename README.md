@@ -24,7 +24,7 @@ CUE (Channel Url Extractor) is a Python GUI application for bulk extraction of v
 
 ### **Installation**
 ```bash
-git clone [(https://github.com/slnquangtran/CUE.git)](https://github.com/slnquangtran/CUE.git)
+git clone https://github.com/slnquangtran/CUE.git
 ```
 ### **Install requirements**
 ```bash
